@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "exercises",
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "hans0126"
+        }
+    }
+}
